@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px) {
+    .block-b {
+        width: 100%;
+    }
+
+    .block-c {
+        width: 100%;
+    }
+}

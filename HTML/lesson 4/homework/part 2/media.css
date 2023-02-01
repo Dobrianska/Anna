@@ -1,0 +1,16 @@
+@media screen and (max-width: 500px) {
+
+   .blocks {
+       width: 100%;
+       height: 70hv;
+   }
+
+    .block-b {
+        width: 100%;
+    }
+
+    .block-f {
+        width: 100%;
+    }
+
+}
