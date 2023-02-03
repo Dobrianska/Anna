@@ -68,7 +68,7 @@
 
 // let firstName = prompt(`enter firstName`);
 // let middleName = prompt('enter middleName');
-// let age = prompt('enter age');
+// let age = +prompt('enter age');
 //
 // let res = `${firstName} ${middleName} ${age}`;
 // console.log(res);
