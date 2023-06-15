@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    font-family: 'Jost';
+}
+
+header {
+    background: #5351511A;
+    height: 15vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 105px;
+
+}
+
+a {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 51px;
+    text-decoration: none;
+    margin: 50px;
+    color: #7A7070;
+}
+
+.home {
+    color: #3D6FB4;
+
+}
+
+section {
+    width: 40vw;
+    margin-left: 140px;
+}
+
+main {
+    display: flex;
+}
+h1 {
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 101px;
+    width: 388px;
+    height: 202px;
+    margin-top: 50px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 51px;
+    width: 608px;
+    height: 209px;
+}
+
+button {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.watch {
+    width: 150px;
+    height: 55px;
+
+    border: 1px solid #000000;
+    border-radius: 30px;
+    margin-right: 35px;
+}
+
+.more {
+   background-color: #3D6FB44A;
+    background: rgba(61, 111, 180, 0.29);
+    border: 1px solid #000000;
+    border-radius: 30px;
+    width: 130px;
+    height: 55px;
+
+}
