@@ -1,0 +1,83 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    margin-top: 5vh;
+}
+
+.instagram {
+    width: 40%;
+
+}
+
+input {
+    width: 50%;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 10px;
+}
+
+#submit {
+    background-color: dodgerblue;
+    color: white;
+    width: 410px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#submit:hover {
+    cursor: pointer;
+}
+
+main p {
+    color: gray;
+}
+
+main div {
+    display: flex;
+}
+
+div a {
+    text-decoration: none;
+    color: #115b9d;
+    font-size: 20px;
+    margin: 10px;
+}
+
+main a {
+    text-decoration: none;
+    color: #115b9d;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 10vh;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    margin-top: 5vh;
+    font-size: 20px;
+
+}
+
+footer a {
+    color: dodgerblue;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+
