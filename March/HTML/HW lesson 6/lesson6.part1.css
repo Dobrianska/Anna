@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+
+.A {
+    width: 100vw;
+    height: 33.3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    background-color: gray;
+}
+
+.wrap {
+    display: flex;
+}
+.B {
+    width: 75vw;
+    height: 33.3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    background-color: gray;
+}
+
+.section {
+    width: 75vw;
+    display: flex;
+    justify-content: space-between;
+
+}
+.C, .D, .E {
+    width: 25vw;
+    height: 33.3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    background-color: gray;
+}
+.F {
+    width: 25vw;
+    height: 66.6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    background-color: gray;
+}
